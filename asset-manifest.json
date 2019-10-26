@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/click/static/css/main.f1023598.chunk.css",
+    "main.js": "/click/static/js/main.101c9e7a.chunk.js",
+    "main.js.map": "/click/static/js/main.101c9e7a.chunk.js.map",
+    "runtime-main.js": "/click/static/js/runtime-main.01f8abd8.js",
+    "runtime-main.js.map": "/click/static/js/runtime-main.01f8abd8.js.map",
+    "static/js/2.32c6e9bd.chunk.js": "/click/static/js/2.32c6e9bd.chunk.js",
+    "static/js/2.32c6e9bd.chunk.js.map": "/click/static/js/2.32c6e9bd.chunk.js.map",
+    "index.html": "/click/index.html",
+    "precache-manifest.ca0b0bc58e6c7926680ce1e7dfada2f5.js": "/click/precache-manifest.ca0b0bc58e6c7926680ce1e7dfada2f5.js",
+    "service-worker.js": "/click/service-worker.js",
+    "static/css/main.f1023598.chunk.css.map": "/click/static/css/main.f1023598.chunk.css.map",
+    "static/media/aliens.jpg": "/click/static/media/aliens.63c4b5f6.jpg",
+    "static/media/batman.jpg": "/click/static/media/batman.d318f380.jpg",
+    "static/media/crying.jpg": "/click/static/media/crying.eddb5e2f.jpg",
+    "static/media/doge.jpg": "/click/static/media/doge.4c76e9f4.jpg",
+    "static/media/fry.jpg": "/click/static/media/fry.d3526ba2.jpg",
+    "static/media/genius.jpg": "/click/static/media/genius.7dcdcec7.jpg",
+    "static/media/grumpy.jpg": "/click/static/media/grumpy.3dc6eb42.jpg",
+    "static/media/high.jpg": "/click/static/media/high.e5c203cf.jpg",
+    "static/media/karen.jpg": "/click/static/media/karen.8ff11eac.jpg",
+    "static/media/man.jpg": "/click/static/media/man.6888c2e0.jpg",
+    "static/media/meme-bg.jpg": "/click/static/media/meme-bg.16a78e9f.jpg",
+    "static/media/meme-duck.png": "/click/static/media/meme-duck.9371af2d.png",
+    "static/media/nerd.jpg": "/click/static/media/nerd.e19a07eb.jpg",
+    "static/media/success.png": "/click/static/media/success.cedfcef4.png",
+    "static/media/yoda.jpg": "/click/static/media/yoda.6592af54.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01f8abd8.js",
+    "static/js/2.32c6e9bd.chunk.js",
+    "static/css/main.f1023598.chunk.css",
+    "static/js/main.101c9e7a.chunk.js"
+  ]
+}
